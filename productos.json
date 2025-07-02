@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "Coca Cola",
+        "precio": 19.0,
+        "stock": 19,
+        "imagen": "coca_cola.png",
+        "categoria": "Bebidas"
+    },
+    {
+        "nombre": "Pepsi",
+        "precio": 16.0,
+        "stock": 22,
+        "imagen": "pepsi.png",
+        "categoria": "Bebidas"
+    },
+    {
+        "nombre": "Fanta",
+        "precio": 17.0,
+        "stock": 20,
+        "imagen": "fanta.png",
+        "categoria": "Bebidas"
+    },
+    {
+        "nombre": "Galletas",
+        "precio": 12.0,
+        "stock": 40,
+        "imagen": "cookies.png",
+        "categoria": "Snacks"
+    },
+    {
+        "nombre": "Pan",
+        "precio": 10.0,
+        "stock": 50,
+        "imagen": "bread.png",
+        "categoria": "Panader\u00eda"
+    },
+    {
+        "nombre": "Jugo",
+        "precio": 15.0,
+        "stock": 35,
+        "imagen": "juice.png",
+        "categoria": "Bebidas"
+    },
+    {
+        "nombre": "Ivanok",
+        "precio": 100.0,
+        "stock": 1,
+        "categoria": "Ivanas",
+        "imagen": "default.png"
+    }
+]
